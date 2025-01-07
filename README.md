@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vijayarajsdev
+- 👋 Hi, I’m @vijayarajs
 - 👀 I’m interested in web applications
-- 🌱 I’m currently learning Reactjs
+- 🌱 FrontEnd Developer - Reactjs
 - 📫 reach me at vijayarajsdev@gmail.com
 
 <!---
