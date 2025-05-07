@@ -38,13 +38,12 @@
 
 ### 📬 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/vijayarajs)
-- [Twitter](https://twitter.com/vijayarajsdev)
+- [LinkedIn](https://www.linkedin.com/in/vijayarajshreinivasan/)
+- [Twitter](https://twitter.com/iamvijayaraj)
 - [Portfolio (Coming Soon)]()
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 - 📫 reach me at vijayarajsdev@gmail.com
 
