@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 2.9+ years of experience building modern UI interfaces and frontend architectures.
+- 🧑‍💻 3+ years of experience building modern UI interfaces and frontend architectures.
 - 💡 Strong in **React.js**, **JavaScript (ES6+)**, **Material-UI**, and **Tailwind CSS**.
 - 🛠 Currently building a **multi-tenant invoice and CRM system** from scratch.
 - 🌱 Actively exploring **Node.js** backend development and system design.
